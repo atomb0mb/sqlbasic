@@ -48,6 +48,6 @@ DROP INDEX - deletes an index
 <>	Not equal to	
 ```
 
-More query examples in wiki: 
+More query examples in wiki: https://github.com/atomb0mb/sqlbasic/wiki
 
 More external resource of SQL: https://www.w3schools.com/sql/sql_intro.asp
