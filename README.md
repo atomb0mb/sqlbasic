@@ -1,4 +1,4 @@
-## SQL QUICK REFRESH
+## SQL QUICK SYNTAX REFRESH
 
 | COMMON DATATYPE        | Details          |
 | ------------- |:-------------:| 
