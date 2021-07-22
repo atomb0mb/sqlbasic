@@ -24,6 +24,29 @@ DROP TABLE - deletes a table
 CREATE INDEX - creates an index (search key)
 DROP INDEX - deletes an index
 ````
+#### SQL Arithmetic Operators
+```
++	Add	
+-	Subtract	
+*	Multiply	
+/	Divide	
+%	Modulo
+```
+#### SQL Bitwise Operators
+```
+&	Bitwise AND
+|	Bitwise OR
+^	Bitwise exclusive OR
+```
+#### SQL Comparison Operators
+```
+=	Equal to	
+>	Greater than	
+<	Less than	
+>=	Greater than or equal to	
+<=	Less than or equal to	
+<>	Not equal to	
+```
 
 More query examples in wiki: 
 
