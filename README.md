@@ -1,4 +1,6 @@
-## SQL QUICK SYNTAX REFRESH
+#### For query examples please go to [Wiki](https://github.com/atomb0mb/sqlbasic/wiki)
+
+---
 
 | COMMON DATATYPE        | Details          |
 | ------------- |:-------------:| 
