@@ -1,4 +1,4 @@
-#### For query examples please go to [Wiki](https://github.com/atomb0mb/sqlbasic/wiki)
+#### For data overview and query examples please go to [Wiki](https://github.com/atomb0mb/sqlbasic/wiki)
 
 ---
 
